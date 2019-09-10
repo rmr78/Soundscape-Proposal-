@@ -1,5 +1,5 @@
 # Soundscape-Proposal-
-List of Sounds
+List of Sounds:
     Waves crashing 
     Birds chirping
     wind 
